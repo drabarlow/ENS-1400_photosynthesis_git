@@ -31,14 +31,14 @@ library(knitr)
 
 ### MCQ Exam
 
-- MCQ, 20 questions, 30 minutes
-- 31st October, 16:00
-- 1 week after last lecture
+- MCQ units 1 (chemistry) and 2 (cell biology)
+- Drop in session
+- 40% module mark
 
 ### Practical: Mitosis in onion root tips
 
 - Dr. Owen Osbourne
-- 27th or 28th November
+- Lab practical report
 
 ---
 
@@ -321,14 +321,14 @@ include_graphics("./img/hoim.png")
 
 ### MCQ Exam
 
-- MCQ, 20 questions, 30 minutes
-- 31st October, 16:00
-- 1 week after last lecture
+- MCQ units 1 (chemistry) and 2 (cell biology)
+- Drop in session
+- 40% module mark
 
 ### Practical: Mitosis in onion root tips
 
 - Dr. Owen Osbourne
-- 27th or 28th November
+- Lab practical report
 
 # Good luck in the exam!
 
