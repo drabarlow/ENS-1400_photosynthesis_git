@@ -50,8 +50,8 @@ include_graphics("./img/gre.png")
 
 - Photosynthesis feeds the living world
 - Two modes of energy conversion:
-- Autotrophs: inorganic nutrients and energy (light = photoautotrophs)
-- Heterotrophs: consume other organisms
+  - Autotrophs: inorganic nutrients and energy (light = photoautotrophs)
+  - Heterotrophs: consume other organisms
 
 ## Photoautotrophs
 
@@ -236,7 +236,7 @@ include_graphics("./img/harris.png")
 
 **Carbon fixation**
 
-- CO2 added to five-carbon sugar called ribulose bisphosphate (RUBP) by rubisco enzyme. Resulting 6-carbon sugar is unstable and splits into 2 3-phosphoglycerate (3-PGA) sugars
+- CO~2~ added to five-carbon sugar called ribulose bisphosphate (RUBP) by rubisco enzyme. Resulting 6-carbon sugar is unstable and splits into 2 3-phosphoglycerate (3-PGA) sugars
 
 **Reduction**
 
@@ -278,7 +278,7 @@ include_graphics("./img/stom.png")
 
 - Uses 4 carbon compound as initial product
 - As opposed to 3 carbon system (C3 pathway)
-- PEP carboxylase adds CO2 to PEP to form four-carbon oxaloacetate, uses ATP
+- PEP carboxylase adds CO~2~ to PEP to form four-carbon oxaloacetate, uses ATP
 - Low affinity for O~2~ and works at low CO~2~ concentrations
 - Evolved 45 times independently
 
@@ -310,7 +310,7 @@ include_graphics("./img/sav.png")
 - Started expansion in Africa ~ 10 Ma
 - Coincided with a dip in atmospheric CO~2~
 - Transition of C3 forests to C4 savannah
-- Evolution of large herbivore fauna
+- Evolution of large mammal fauna
 - … and early Homininae leading to hominins
 
 ```{r, out.width = "100%", fig.align='center'}
